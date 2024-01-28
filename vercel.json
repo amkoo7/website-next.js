@@ -1,4 +1,9 @@
 {
+  "build":{
+    "env": {
+      "PNPM_VERSION": "8.14.2"
+    }
+  },
   "github": {
     "silent": true,
     "autoJobCancelation": true
